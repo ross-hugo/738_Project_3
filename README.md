@@ -9,7 +9,7 @@ Datasets Used:
 
 • https://raw.githubusercontent.com/jbrownlee/Datasets/master/adult-all.csv
 
-**Datasets**
+#Datasets
 
 For this project, I decided to mainly focus on solving classification problems. As a starting example, I decided to try and solve MNIST, a 
 series of graphical representations of hand drawn numbers, by identifying which number they are trying to represent. MNIST is a classic 
